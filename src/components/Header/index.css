@@ -1,0 +1,11 @@
+.header-bg {
+  width: 100%;
+  background-color: #cbd5e1;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5px;
+}
+
+.section-heading {
+  color: #475569;
+}

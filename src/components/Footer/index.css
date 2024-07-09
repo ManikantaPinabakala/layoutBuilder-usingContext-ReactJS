@@ -1,0 +1,10 @@
+.footer-bg {
+  width: 100%;
+  background-color: #cbd5e1;
+  display: flex;
+  justify-content: center;
+}
+
+.section-heading {
+  color: #475569;
+}

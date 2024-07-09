@@ -1,0 +1,23 @@
+.controller-bg {
+  width: 100%;
+  padding: 20px 70px;
+  background-color: #475569;
+}
+
+.layout-heading {
+  color: #ffffff;
+}
+
+.checkbox-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.single-container {
+  margin: 10px 0;
+}
+
+.label {
+  margin-left: 10px;
+  color: #ffffff;
+}
